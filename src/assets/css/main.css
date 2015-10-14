@@ -1,5 +1,5 @@
 @import url("font-awesome.min.css");
-@import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,600,600italic");
+@import ur("https://fonts.googleapis.com/css?family=Raleway'");
 
 /*
 	Arcana by HTML5 UP
@@ -16,6 +16,7 @@
 		font-size: 100%;
 		font: inherit;
 		vertical-align: baseline;
+		font-family: 'Raleway', sans-serif;
 	}
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
@@ -1808,7 +1809,7 @@
 
 	body, input, select, textarea {
 		color: #474747;
-		font-family: 'Source Sans Pro', sans-serif;
+		
 		font-size: 16pt;
 		font-weight: 300;
 		line-height: 1.65em;
