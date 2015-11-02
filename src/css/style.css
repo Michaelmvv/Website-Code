@@ -28,6 +28,7 @@ html,body{
 	width:100%;
 	height:100%;
 	background:#111;
+	background-color: 
 }
 
 html{
@@ -35,7 +36,7 @@ html{
 }
 
 body{
-  font:normal 75% Arial, Helvetica, sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 
 canvas{
@@ -45,27 +46,21 @@ canvas{
 
 h1{
 	font-size: 4em;
-	font-family: 'Raleway', sans-serif;
 }
 h2{
 	font-size: 2em;
-	font-family: 'Raleway', sans-serif;
 }
 h3{
 	font-size: 1em;
-	font-family: 'Raleway', sans-serif;
 }
 h4{
 	font-size: 0.5em;
-	font-family: 'Raleway', sans-serif;
 }
 h5{
 	font-size: 0.25em;
-	font-family: 'Raleway', sans-serif;
 }
 h6{
 	font-size: 0.125;
-	font-family: 'Raleway', sans-serif;
 }
 
 /* ---- stats.js ---- */
@@ -112,27 +107,29 @@ h6{
 #particles-js{
   width: 100%;
   height: 100%;
-  background-color: #b61924;
+  background-color: #2d93fc;
   background-image: url('');
   background-size: cover;
   background-position: 50% 50%;
   background-repeat: no-repeat;
+	font-family: 'Raleway', sans-serif;
 }
 
 /* Website Stuff */
 .mainPanel {
-	font-size: 1.3em;
+	font-size: 1em;
 	position: absolute;
 	z-index: 10;
 	width: 600px;
 	height: 600px;
 	background: #eee;
 	top: 25%;
-	left: 50%;
-	right: 50%;
+	left: 35%;
+	right: %;
 	margin: -100px 0 0 -100px;
 	padding: 25px;
 	border-radius: 4px;
 	box-sizing: border-box;
 	z-index: 100;
+	font-family: 'Raleway', sans-serif;
 }
