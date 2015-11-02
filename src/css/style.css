@@ -44,6 +44,7 @@ canvas{
 }
 
 h1{
+	font-size: 4em;
 	font-family: 'Raleway', sans-serif;
 }
 
@@ -103,17 +104,15 @@ h1{
 .mainPanel {
 	font-size: 1em;
 	position: absolute;
-	z-index: 10;
-	width: 600px;
-	height: 600px;
+	width: auto;
+	height: auto;
 	background: #eee;
 	top: 25%;
 	left: 35%;
-	right: %;
+	right: 35%;
 	margin: -100px 0 0 -100px;
 	padding: 25px;
 	border-radius: 4px;
 	box-sizing: border-box;
-	z-index: 100;
 	font-family: 'Raleway', sans-serif;
 }
