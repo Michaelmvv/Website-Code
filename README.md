@@ -1,5 +1,3 @@
 # Website-Code
-Welcome to the website source code.
-It will be updaed every now and again.
+Source Code for http://thorintech.co.uk  
 
-**This is a beta build, not stable**
