@@ -48,6 +48,15 @@ h1{
 	font-family: 'Raleway', sans-serif;
 }
 
+p{
+	font-size: 4vw;
+	font-family: 'Raleway', sans-serif;
+}
+img{
+    max-width: 100%;
+    height: auto;
+    width: auto/8;
+}
 /* ---- stats.js ---- */
 
 .count-particles{
